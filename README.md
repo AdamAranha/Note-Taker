@@ -48,5 +48,5 @@ You can find me on [GitHub](https://github.com/AdamAranha) or you can reach me b
 
 
 
-![Screenshot](Assets/noteTaker.png)
+![Screenshot](https://github.com/AdamAranha/Note-Taker/blob/main/Assets/NoteTaker.PNG?raw=true)
 
