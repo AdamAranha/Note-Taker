@@ -105,7 +105,7 @@ const handleNewNoteView = (e) => {
   activeNote = {};
   renderActiveNote();
 };
-
+// Renders Save button if there are changes to the text
 const handleRenderSaveBtn = () => {
   if (!noteTitle.value.trim() || !noteText.value.trim()) {
     hide(saveNoteBtn);

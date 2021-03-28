@@ -6,5 +6,79 @@
     {
         "title": "Note One",
         "text": "Text for Test Note One"
+    },
+    {
+        "title": "test 4",
+        "text": "rewrite db.json"
+    },
+    {
+        "title": "Test 5",
+        "text": "list update after note save"
+    },
+    {
+        "title": "test 8",
+        "text": "update list after save, without error"
+    },
+    {
+        "title": "test 9",
+        "text": "update list after save, without error"
+    },
+    {
+        "title": "Test 10",
+        "text": "update list after save without error"
+    },
+    {
+        "title": "Test 11",
+        "text": "update list after save without error"
+    },
+    {
+        "title": "test 14",
+        "text": "error check"
+    },
+    {
+        "title": "test 15",
+        "text": "error check"
+    },
+    {
+        "title": "test 16",
+        "text": "error check"
+    },
+    {
+        "title": "test 16",
+        "text": "error check"
+    },
+    {
+        "title": "test 16",
+        "text": "error check"
+    },
+    {
+        "title": "Test 17",
+        "text": "Test Test"
+    },
+    {
+        "title": "Test 18 ",
+        "text": "see req.body"
+    },
+    {
+        "title": "test 19",
+        "text": "see req.body"
+    },
+    {
+        "title": "Test 20",
+        "text": "see req.body"
+    },
+    {
+        "title": "Test 21",
+        "text": "see req.body"
+    },
+    {
+        "title": "Test 22",
+        "text": "Testing uuid implementation",
+        "id": "82b0d249-a1bb-4691-9ca8-daa252bbf605"
+    },
+    {
+        "title": "test 23",
+        "text": "more uuid test",
+        "id": "bffc13cd-6999-4ede-ac7d-54b85b68bcf4"
     }
 ]
