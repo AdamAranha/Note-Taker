@@ -72,13 +72,13 @@
         "text": "see req.body"
     },
     {
-        "title": "Test 22",
-        "text": "Testing uuid implementation",
-        "id": "82b0d249-a1bb-4691-9ca8-daa252bbf605"
-    },
-    {
         "title": "test 23",
         "text": "more uuid test",
         "id": "bffc13cd-6999-4ede-ac7d-54b85b68bcf4"
+    },
+    {
+        "title": "Test 25 ",
+        "text": "Using res.end instead of res.status",
+        "id": "ad455eb8-a93d-4de4-9c4d-0fcce3eb3cf3"
     }
 ]

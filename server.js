@@ -26,6 +26,12 @@ app.post('/api/notes', (req, res) => {
     fs.writeFileSync('./db/db.json', JSON.stringify(noteData)).res.status(200)
 })
 
+app.delete('/api/notes/:id', (req, res) => {
+    noteData = (noteData.filter(data => data.id != req.params.id))
+    fs.writeFileSync('./db/db.json', JSON.stringify(noteData)).res.status(200)
+    res.end()
+})
+
 // Can't find a way to link CSS when the page is loaded
 // app.get('/notes', (req, res) => {
 //     // res.json(noteData)
